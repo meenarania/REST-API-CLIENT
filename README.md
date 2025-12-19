@@ -12,7 +12,7 @@
 
 #MENTOR#:NEELA SANTHOSH KUMAR
 
-Project Overview: REST API Client Application
+#Project Overview#: REST API Client Application
 Objective
 
 The objective of  REST API Client is to develop a Java application that connects to a public REST API, retrieves data using an HTTP request, processes the JSON response, and displays the information in a readable format. This task demonstrates understanding of API communication, networking concepts, and basic data parsing in Java.
@@ -28,37 +28,6 @@ Task 2 of the CodTech Java Internship focuses on building a REST API Client Appl
 
 In this task, a Java program is developed to connect to a public REST API, send an HTTP request, receive a JSON response, process that response, and display the data in a readable format. This helps interns gain practical exposure to networking concepts, API communication, and data handling in Java.
 
-Objective of Task 2
-
-The main objectives of Task 2 are:
-
-To understand the concept of RESTful APIs
-
-To learn how Java communicates with web servers using HTTP
-
-To fetch data from an external API using a GET request
-
-To handle and parse JSON responses
-
-To display the extracted data in a structured format
-
-To improve understanding of real-world Java applications
-
-This task bridges the gap between basic Java programming and real-world application development.
-
-Technology and Tools Used
-
-Programming Language: Java
-
-Java Version: Java 11 or above
-
-Networking API: HttpClient, HttpRequest, and HttpResponse
-
-Data Format: JSON
-
-Development Environment: VS Code / Command Prompt
-
-The HttpClient API introduced in Java 11 is used because it is modern, efficient, and avoids deprecated networking methods. This makes the solution future-proof and industry-relevant.
 
 Description of the REST API
 
