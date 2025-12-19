@@ -74,5 +74,7 @@ This task strengthens real-world Java skills required for backend development an
 
 #OUTPUT#
 
+<img width="455" height="67" alt="Image" src="https://github.com/user-attachments/assets/6e7fb844-682b-434e-928c-aefb48fbb081" />
+
 
 
